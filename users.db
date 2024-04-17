@@ -1,0 +1,10 @@
+{"id":"7480c679-48a9-4779-a100-5558ee8994d5","email":"test@testson.se","password":"Testson1234","orders":[],"cart":[],"_id":"5sEGdUa2P25QKHpy"}
+{"id":"57d0e436-984f-4430-99ca-aa85aa37454f","email":"test@testson.se","password":"Testson123","orders":[],"cart":[],"_id":"7wAbQw4jZ8SZrdxS"}
+{"id":"ca180c1c-8ac6-4bc6-a279-196db5597cdc","email":"test@testson.se","password":"Testson1234","orders":[],"cart":[],"_id":"GITfiTZvnFg7BSMy"}
+{"id":"6bdd2f04-6335-4449-bc6f-03476a1cd100","email":"test@testson.se","password":"Testson1234","orders":[],"cart":[],"_id":"LmexTZ3kAfAQScBA"}
+{"id":"c138231d-7b12-4080-99c9-cfbbe7ca718f","email":"test@testson.se","password":"Testson1234","orders":[],"cart":[],"_id":"P8COfovZ8AeIBIWc"}
+{"id":"3cacbb1a-acab-429d-9667-620b8a95e6e3","email":"test@testson123.se","password":"Testson","orders":[],"cart":[{"id":1,"title":"Bryggkaffe","desc":"Bryggd på månadens bönor.","price":39},{"id":5,"title":"Kaffe Latte","desc":"Bryggd på månadens bönor.","price":54},{"id":1,"title":"Bryggkaffe","desc":"Bryggd på månadens bönor.","price":39},{"id":1,"title":"Bryggkaffe","desc":"Bryggd på månadens bönor.","price":39},{"id":1,"title":"Bryggkaffe","desc":"Bryggd på månadens bönor.","price":39},{"id":3,"title":"Cappuccino","desc":"Bryggd på månadens bönor.","price":49},{"id":3,"title":"Cappuccino","desc":"Bryggd på månadens bönor.","price":49},{"id":3,"title":"Cappuccino","desc":"Bryggd på månadens bönor.","price":49}],"_id":"RqF52NyEmgoFXenT"}
+{"id":"28b61647-adc6-4307-89ad-d6ec2050bf79","email":"test@testson.se","password":"Testson1234","orders":[],"cart":[],"_id":"UuBVhH5wlrVwuN2i"}
+{"id":"c3fa9c6c-b256-4219-af39-35c81bdf33ff","email":"test@testson.se","password":"Testson1234","orders":[],"cart":[],"_id":"hhNjAclxtZtbxnSh"}
+{"id":"316547b1-3c02-41b0-911a-efbb6ee29bb4","email":"test@testson.se","password":"Testson123","orders":[],"cart":[],"_id":"jVBeScbLUEvz36Dw"}
+{"id":"269ef512-685a-40bb-b65f-b00f474c1cda","email":"exempel@example.com","password":"mysecretpassword","orders":[],"cart":[],"_id":"lOrcam0fumtjRxwc"}
